@@ -1,1 +1,11 @@
 /* Codul tau CSS aici */
+button{
+    padding:10px;
+    color:white;
+    background-color: blue;
+    border: none;
+}
+
+.info { 
+  background-color: goldenrod;
+}
