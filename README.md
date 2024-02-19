@@ -1,2 +1,2 @@
 # Quiz_app
-workshop with HTML and CSS
+Workshop with HTML and CSS
